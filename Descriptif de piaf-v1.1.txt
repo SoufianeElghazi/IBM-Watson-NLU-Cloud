@@ -1,0 +1,17 @@
+Lien:https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/
+
+PIAF - Le dataset francophone de Questions-Réponses
+
+Description
+PIAF, construire un jeu de données francophones ouvert pour l’IA
+Le recours à l’intelligence artificielle au sein de l’action publique est souvent identifié comme une opportunité pour interroger
+ des textes documentaires et réaliser des outils de questions/réponses (QR) automatiques à destination des usagers. Interroger le
+ code du travail en langage naturel, mettre à disposition un agent conversationnel pour un service donné, développer des moteurs de
+ recherche performants, améliorer la gestion des connaissances, autant d’activités qui nécessitent de disposer de corpus de données 
+d’entraînement de qualité afin de développer des algorithmes de questions/réponses. Le dataset PIAF est un jeu de données d’entraînement
+ francophone public et ouvert qui permet d’entraîner ces algorithmes.
+
+En nous inspirant de SQuAD, le jeu de données bien connu de QR anglais, nous avons eu l’ambition de construire un jeu de données similaire qui
+ serait ouvert à tous. Le protocole que nous avons suivi est très similaire à celui de la première version de SQuAD (SQuAD v1.1). Néanmoins, quelques
+ modifications ont dû être apportées pour s’adapter aux caractéristiques du Wikipédia français. Une autre grande différence est que nous n’employons pas
+ de micro-travailleurs via des plateformes de crowd-sourcing.
